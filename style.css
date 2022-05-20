@@ -1,0 +1,37 @@
+#a1{
+    background-color: aqua;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+}
+#a2{
+    background-color: aliceblue;
+    height: 60vh;
+    width:40%;
+    border-radius: 5px;
+    margin-left: 30%;
+    margin-top:10%;
+}
+form{
+    margin-top: 15%;
+}
+#la{
+    font-size:25px;
+    font-weight: bolder;
+    margin-left: 30%;
+}
+#result{
+    height: 30px;
+    text-align: center;
+    width:100%;
+    background-color:hwb(33 77% 0%);
+    margin-top: 5%;
+    color: black;
+    font-size: 22px;
+    border-color: black;
+    border-style:double;
+    border-width: 3px;
+}
+button{
+    margin-left: 40%;
+}
